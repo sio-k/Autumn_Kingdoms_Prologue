@@ -22,7 +22,8 @@ CLOSED: [2021-03-14 Sun 14:44]
 ** issue is:
 Multiple units have the same id. Only one unit can have a certain id in v1.14 (multiple units with the same id were apparently permitted in v1.4/v1.6 somehow before) - BUT ONLY FOR SAVEGAME PURPOSES.
 ** TODO fix: go through all scenarios and make sure all units have different ids
-*** TODO 01
+*** DONE 01
+CLOSED: [2021-03-15 Mon 20:10]
 *** DONE 02
 *** DONE 03
 *** TODO 04
