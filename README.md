@@ -21,7 +21,7 @@ License
 
 Copyright (C) 2007-2009 Devrailis Colandore. Copyright (C) 2021 Sio Kreuzer.
 
-Copyright of unit pictures: (C) Battle for Wesnoth contributors, 2007-2021.
+Copyright of unit pictures: Copyright (C) Battle for Wesnoth contributors, 2007-2021. Copyright (C) Matthi205, 2013.
 
 Licensed under the terms of the GNU GPLv2+.
 
