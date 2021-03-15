@@ -1,4 +1,4 @@
-This is a Battle for Wesnoth v1.14 campaign. You will need the game to play it. For installation instructions, refer to https://www.wesnoth.org/Play
+This is a Battle for Wesnoth v1.14 campaign. You will need the game to play it. For installation instructions, refer to https://www.wesnoth.org/Play (install the stable version).
 
 Originally created by Devrailis Colandore.
 
