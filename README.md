@@ -14,15 +14,15 @@ CAUTION: *Incredibly* buggy. Neither saving nor loading work properly; in a play
 Installing
 -----
 
-Put in your userdata/add-ons/ folder (either inside the Wesnoth folder, in /home/username/.local/share/wesnoth, /home/username/.config/wesnoth-1.14/, or C:/Users/username/AppData/Roaming/Wesnoth).
+Put in your `userdata/add-ons/` folder (either inside the Wesnoth folder, in `/home/username/.local/share/wesnoth`, `/home/username/.config/wesnoth-1.14/`, or `C:/Users/username/AppData/Roaming/Wesnoth`).
 
 License
 ----
 
-Copyright (C) 2007-2009 Devrailis Colandore. Copyright (C) 2021 Sio Kreuzer.
+`Copyright (C) 2007-2009 Devrailis Colandore. Copyright (C) 2021 Sio Kreuzer.`
 
-Copyright of unit pictures: Copyright (C) Battle for Wesnoth contributors, 2007-2021. Copyright (C) Matthi205, 2013.
+Copyright of unit pictures: `Copyright (C) 2007-2021 Battle for Wesnoth contributors. Copyright (C) 2013 Matthi205.`
 
 Licensed under the terms of the GNU GPLv2+.
 
-Refer to COPYING.txt for full text.
+Refer to COPYING.txt for full license text.
