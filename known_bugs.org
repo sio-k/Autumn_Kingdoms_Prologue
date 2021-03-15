@@ -12,10 +12,26 @@ CLOSED: [2021-03-14 Sun 14:44]
 * TODO macro redefinitions without explicit #undef in utils.cfg
 * TODO All leadership trees use leadership one level higher than the unit level. If memory serves, this is now termed "inspire". If it works differently: create a different leadership-type trait for our units to represent this.
 * TODO insane savegame bugs - specific to scenario 3
-** TODO enemy units are never saved nor loaded properly
+** TODO enemy units are never saved nor loaded properly; randomly they are loaded/saved properly
 ** TODO friendly units don't have their current move points, levels, or... well, anything really saved or restored properly
 *** TODO figure out whether this is because of the way Perrin's patrol squad is handled
 *** TODO figure out how these types of things are handled in other campaigns
 ** TODO something about how units get spawned is fucky and only barely works
 *** TODO figure out where the hack is; this is probably a hack to make the entire thing work in v1.4
 *** TODO figure out what the correct way to do this stuff is now
+** issue is:
+Multiple units have the same id. Only one unit can have a certain id in v1.14 (multiple units with the same id were apparently permitted in v1.4/v1.6 somehow before) - BUT ONLY FOR SAVEGAME PURPOSES.
+** TODO fix: go through all scenarios and make sure all units have different ids
+*** TODO 01
+*** DONE 02
+*** DONE 03
+*** TODO 04
+*** TODO 05
+*** TODO 06
+*** TODO 07
+*** TODO 08
+*** TODO 09
+*** TODO 10
+*** TODO 11
+*** TODO 12
+* TODO objectives are not updated properly; events don't manipulate objectives, but just temporarily show a new objective window
