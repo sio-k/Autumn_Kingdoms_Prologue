@@ -1,5 +1,7 @@
 This is a Battle for Wesnoth v1.14 campaign. You will need the game to play it. For installation instructions, refer to https://www.wesnoth.org/Play
 
+Originally created by Devrailis Colandore.
+
 Campaign Description
 ----
 
@@ -16,6 +18,10 @@ Put in your userdata/add-ons/ folder (either inside the Wesnoth folder, in /home
 
 License
 ----
+
+Copyright (C) 2007-2009 Devrailis Colandore. Copyright (C) 2021 Sio Kreuzer.
+
+Copyright of unit pictures: (C) Battle for Wesnoth contributors, 2007-2021.
 
 Licensed under the terms of the GNU GPLv2+.
 
