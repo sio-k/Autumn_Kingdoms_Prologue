@@ -1,0 +1,51 @@
+[textdomain]
+	name="wesnoth-Autumn_Kingdoms_Prologue"
+	path="../userdata/data/add-ons/Autumn_Kingdoms_Prologue/translations"
+[/textdomain]
+
+[campaign]
+	#textdomain wesnoth-Autumn_Kingdoms_Prologue
+	name= _ "Autumn Kingdoms - Prologue"
+	abbrev=_ _ AK-P
+	define=CAMPAIGN_AUTUMN_KINGDOMS_PROLOGUE
+
+	icon=../userdata/data/add-ons/Autumn_Kingdoms_Prologue/images/menu/lieutenant.png
+	image="../userdata/data/add-ons/Autumn_Kingdoms_Prologue/images/menu/lieutenant.png"
+	description= _ "All kingdoms fall. Join Captain Aldehar as he witnesses the rise of a revolution, and the changing of an era. Incomplete: 12 scenarios of 17. Version 0.1.8."
+	
+	difficulties=EASY,NORMAL,HARD
+
+	difficulty_descriptions={MENU_IMG_TXT2 "../userdata/data/add-ons/Autumn_Kingdoms_Prologue/images/menu/sergeant.png" (_"Sergeant") (_"(Easy)")} + 
+		";*" + {MENU_IMG_TXT2 "../userdata/data/add-ons/Autumn_Kingdoms_Prologue/images/menu/lieutenant.png" (_"Lieutenant") (_"(Normal)")} + 
+		";" + {MENU_IMG_TXT2 "../userdata/data/add-ons/Autumn_Kingdoms_Prologue/images/menu/general.png" (_"General") (_"(Hard)")}
+		
+	first_scenario=01_Winter
+	
+	[about]
+        title = _ "Campaign Creator"
+        [entry]
+            name = "Devrailis Condalore"
+        [/entry]
+    [/about]
+
+[/campaign]
+
+#ifdef CAMPAIGN_AUTUMN_KINGDOMS_PROLOGUE
+
+	{~add-ons/Autumn_Kingdoms_Prologue/utils/utils.cfg}
+	{~add-ons/Autumn_Kingdoms_Prologue/utils/macros.cfg}
+	{~add-ons/Autumn_Kingdoms_Prologue/utils/deaths.cfg}
+
+	{~add-ons/Autumn_Kingdoms_Prologue/scenarios}
+
+	[+units]
+	{~add-ons/Autumn_Kingdoms_Prologue/units}
+	[/units]
+
+	[binary_path] 
+		path=~add-ons/Autumn_Kingdoms_Prologue/ 
+	[/binary_path]
+
+	{~add-ons/Autumn_Kingdoms_Prologue/images}
+
+#endif

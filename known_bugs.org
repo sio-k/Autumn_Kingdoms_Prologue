@@ -1,0 +1,21 @@
+* saves are broken with Advance Wesnoth Wars:
+** newly encountered units in scenario 3 - Amidst the Laansratch aren't saved at all unless they're used to attack
+** AWW doesn't impact those units
+** AWW has significant issues affecting most units until they have been in combat with a unit that AWW already governs
+** TODO figure out if saves are broken without AWW, too. Might be we're using *really* old unit spawning syntax.
+* TODO unit cfgs use some old syntax; needs changing
+* TODO unit cfgs are missing complete race/faction definitions
+* DONE Aramelle Eluviss at lvl1 has a wrongly offset health bar and unit icon
+CLOSED: [2021-03-14 Sun 14:58]
+* DONE there are some bugs specific to hard mode
+CLOSED: [2021-03-14 Sun 14:44]
+* TODO macro redefinitions without explicit #undef in utils.cfg
+* TODO All leadership trees use leadership one level higher than the unit level. If memory serves, this is now termed "inspire". If it works differently: create a different leadership-type trait for our units to represent this.
+* TODO insane savegame bugs - specific to scenario 3
+** TODO enemy units are never saved nor loaded properly
+** TODO friendly units don't have their current move points, levels, or... well, anything really saved or restored properly
+*** TODO figure out whether this is because of the way Perrin's patrol squad is handled
+*** TODO figure out how these types of things are handled in other campaigns
+** TODO something about how units get spawned is fucky and only barely works
+*** TODO figure out where the hack is; this is probably a hack to make the entire thing work in v1.4
+*** TODO figure out what the correct way to do this stuff is now
