@@ -34,14 +34,22 @@ CLOSED: [2021-03-15 Mon 21:10]
 CLOSED: [2021-03-15 Mon 21:10]
 *** DONE 05
 CLOSED: [2021-03-15 Mon 20:57]
-*** TODO 06
-**** TODO check whether the terrain mask is still correct or if it needs to be modified to work
-*** TODO 07
-*** TODO 08
-*** TODO 09
-*** TODO 10
-*** TODO 11
-*** TODO 12
+*** DONE 06
+CLOSED: [2021-03-16 Tue 21:00]
+**** DONE check whether the terrain mask is still correct or if it needs to be modified to work
+CLOSED: [2021-03-16 Tue 21:00]
+*** DONE 07
+CLOSED: [2021-03-16 Tue 21:00]
+*** DONE 08
+CLOSED: [2021-03-16 Tue 21:01]
+*** DONE 09
+CLOSED: [2021-03-16 Tue 21:04]
+*** DONE 10
+CLOSED: [2021-03-16 Tue 21:29]
+*** DONE 11
+CLOSED: [2021-03-16 Tue 21:29]
+*** DONE 12
+CLOSED: [2021-03-16 Tue 21:32]
 * TODO objectives are not updated properly; events don't manipulate objectives, but just temporarily show a new objective window
 * TODO most map images are broken and aren't shown
 ** TODO all the signposts everywhere are screwed, as well as a fair amount of fire and other such scenery
