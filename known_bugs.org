@@ -43,3 +43,8 @@ CLOSED: [2021-03-15 Mon 20:57]
 *** TODO 11
 *** TODO 12
 * TODO objectives are not updated properly; events don't manipulate objectives, but just temporarily show a new objective window
+* TODO most map images are broken and aren't shown
+** TODO all the signposts everywhere are screwed, as well as a fair amount of fire and other such scenery
+** TODO there's supposed to be a nice "go here" image in scenario 6, but there... well, isn't one.
+* TODO map labels are not applied
+** TODO this is especially a problem in Estelaisen (scenario 6), where Perrin is tasked with moving to a specific hex that is supposed to be indicated by a label, but isn't.
