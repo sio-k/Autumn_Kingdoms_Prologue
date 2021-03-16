@@ -19,10 +19,6 @@ Put in your `userdata/add-ons/` folder (either inside the Wesnoth folder, in `/h
 License
 ----
 
-`Copyright (C) 2007-2009 Devrailis Colandore. Copyright (C) 2021 Sio Kreuzer.`
-
-Copyright of unit pictures: `Copyright (C) 2007-2021 Battle for Wesnoth contributors. Copyright (C) 2013 Matthi205.`
-
-Licensed under the terms of the GNU GPLv2+.
+Licensed (where not otherwise stated) under the terms of the GNU GPLv2+. Some unit pictures may need to be redistributed under a different license. I'm not sure which these are at this time, and would appreciate having them pointed out.
 
 Refer to COPYING.txt for full license text.
