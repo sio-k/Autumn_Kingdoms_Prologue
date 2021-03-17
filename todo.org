@@ -1,9 +1,0 @@
-* TODO bugs
-* TODO speaker portraits of some kind at least, even if inaccurate
-* TODO nicer scenario objectives
-* TODO scenario objectives that update
-* TODO attack sounds
-* TODO hit sounds
-* TODO improve the unit sprites so they look a little less awkward (crossbowmen in particular aren't great)
-* TODO replace all WML code with Lua code instead, keeping only the declarative bits in WML (WML-as-a-programming-language looks like a mess, is rather unreadable, and causes us to bury stuff in macros within macros, which is a bit of a problem for maintaining all of this long term)
-* TODO attack thingies for the ranged attacks so it's clear that arrows or whatever are flying
