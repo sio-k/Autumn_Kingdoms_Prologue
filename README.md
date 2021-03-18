@@ -9,7 +9,7 @@ All kingdoms fall. Join Captain Aldehar as he witnesses the rise of a revolution
 
 Ported to Wesnoth version 1.14; original creator unreachable since 2009. All contributions and fixes are welcome.
 
-CAUTION: *Incredibly* buggy. Neither saving nor loading work properly; in a playable state otherwise.
+CAUTION: Still a lot of bugs, a lot of which probably undiscovered. Saving/loading should at least work properly now, though.
 
 Installing
 -----
